@@ -1,1 +1,1 @@
-# EDUGEN
+# EDUGEN AI
